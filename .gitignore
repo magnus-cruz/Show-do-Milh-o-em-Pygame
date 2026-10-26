@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+build/
+dist/
+*.spec
+
+.idea/
+.vscode/*
+!.vscode/settings.json
+
+*.log
+.DS_Store
+Thumbs.db

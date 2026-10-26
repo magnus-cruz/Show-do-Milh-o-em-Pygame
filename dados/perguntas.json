@@ -1,0 +1,360 @@
+{
+  "faceis": [
+    {
+      "id": "f01",
+      "pergunta": "Qual é o maior planeta do Sistema Solar?",
+      "opcoes": [
+        "Terra",
+        "Marte",
+        "Júpiter",
+        "Vênus"
+      ],
+      "correta": 2
+    },
+    {
+      "id": "f02",
+      "pergunta": "Quantos dias tem uma semana?",
+      "opcoes": [
+        "Cinco",
+        "Seis",
+        "Sete",
+        "Oito"
+      ],
+      "correta": 2
+    },
+    {
+      "id": "f03",
+      "pergunta": "Qual é a capital do Brasil?",
+      "opcoes": [
+        "Rio de Janeiro",
+        "Brasília",
+        "São Paulo",
+        "Salvador"
+      ],
+      "correta": 1
+    },
+    {
+      "id": "f04",
+      "pergunta": "Qual animal é conhecido como rei da selva?",
+      "opcoes": [
+        "Tigre",
+        "Elefante",
+        "Leão",
+        "Lobo"
+      ],
+      "correta": 2
+    },
+    {
+      "id": "f05",
+      "pergunta": "Qual é o símbolo químico do ouro?",
+      "opcoes": [
+        "Ag",
+        "Fe",
+        "Au",
+        "O"
+      ],
+      "correta": 2
+    },
+    {
+      "id": "f06",
+      "pergunta": "Quantos lados tem um hexágono?",
+      "opcoes": [
+        "Cinco",
+        "Seis",
+        "Sete",
+        "Oito"
+      ],
+      "correta": 1
+    },
+    {
+      "id": "f07",
+      "pergunta": "Em que continente fica o Brasil?",
+      "opcoes": [
+        "Europa",
+        "Ásia",
+        "América do Sul",
+        "África"
+      ],
+      "correta": 2
+    },
+    {
+      "id": "f08",
+      "pergunta": "Qual é a cor obtida pela mistura de azul e amarelo?",
+      "opcoes": [
+        "Roxa",
+        "Verde",
+        "Laranja",
+        "Marrom"
+      ],
+      "correta": 1
+    },
+    {
+      "id": "f09",
+      "pergunta": "Quem escreveu 'O Pequeno Príncipe'?",
+      "opcoes": [
+        "Saint-Exupéry",
+        "Machado de Assis",
+        "Monteiro Lobato",
+        "Jorge Amado"
+      ],
+      "correta": 0
+    },
+    {
+      "id": "f10",
+      "pergunta": "Qual destes é um mamífero?",
+      "opcoes": [
+        "Tubarão",
+        "Golfinho",
+        "Pinguim",
+        "Cobra"
+      ],
+      "correta": 1
+    },
+    {
+      "id": "f11",
+      "pergunta": "Qual instrumento mede a temperatura?",
+      "opcoes": [
+        "Barômetro",
+        "Termômetro",
+        "Hidrômetro",
+        "Velocímetro"
+      ],
+      "correta": 1
+    },
+    {
+      "id": "f12",
+      "pergunta": "Quantos minutos há em uma hora?",
+      "opcoes": [
+        "30",
+        "45",
+        "60",
+        "100"
+      ],
+      "correta": 2
+    }
+  ],
+  "intermediarias": [
+    {
+      "id": "i01",
+      "pergunta": "Quem pintou a Mona Lisa?",
+      "opcoes": [
+        "Van Gogh",
+        "Michelangelo",
+        "Leonardo da Vinci",
+        "Picasso"
+      ],
+      "correta": 2
+    },
+    {
+      "id": "i02",
+      "pergunta": "Qual é o maior oceano da Terra?",
+      "opcoes": [
+        "Atlântico",
+        "Índico",
+        "Ártico",
+        "Pacífico"
+      ],
+      "correta": 3
+    },
+    {
+      "id": "i03",
+      "pergunta": "Em que ano o homem chegou à Lua pela primeira vez?",
+      "opcoes": [
+        "1959",
+        "1969",
+        "1979",
+        "1989"
+      ],
+      "correta": 1
+    },
+    {
+      "id": "i04",
+      "pergunta": "Qual é a unidade básica da vida?",
+      "opcoes": [
+        "Átomo",
+        "Tecido",
+        "Célula",
+        "Órgão"
+      ],
+      "correta": 2
+    },
+    {
+      "id": "i05",
+      "pergunta": "Qual país inventou o papel?",
+      "opcoes": [
+        "China",
+        "Egito",
+        "Grécia",
+        "Índia"
+      ],
+      "correta": 0
+    },
+    {
+      "id": "i06",
+      "pergunta": "Qual é o resultado de 12 ao quadrado?",
+      "opcoes": [
+        "124",
+        "132",
+        "144",
+        "156"
+      ],
+      "correta": 2
+    },
+    {
+      "id": "i07",
+      "pergunta": "Qual gás é mais abundante na atmosfera terrestre?",
+      "opcoes": [
+        "Oxigênio",
+        "Nitrogênio",
+        "Hélio",
+        "Carbono"
+      ],
+      "correta": 1
+    },
+    {
+      "id": "i08",
+      "pergunta": "Qual é a capital da Austrália?",
+      "opcoes": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correta": 2
+    },
+    {
+      "id": "i09",
+      "pergunta": "Quem escreveu 'Dom Casmurro'?",
+      "opcoes": [
+        "José de Alencar",
+        "Machado de Assis",
+        "Drummond",
+        "Clarice Lispector"
+      ],
+      "correta": 1
+    },
+    {
+      "id": "i10",
+      "pergunta": "Como se chama a passagem do líquido para o gasoso?",
+      "opcoes": [
+        "Fusão",
+        "Solidificação",
+        "Vaporização",
+        "Condensação"
+      ],
+      "correta": 2
+    }
+  ],
+  "dificeis": [
+    {
+      "id": "d01",
+      "pergunta": "Qual é o elemento químico de número atômico 26?",
+      "opcoes": [
+        "Cobre",
+        "Ferro",
+        "Zinco",
+        "Níquel"
+      ],
+      "correta": 1
+    },
+    {
+      "id": "d02",
+      "pergunta": "Qual filósofo escreveu 'A República'?",
+      "opcoes": [
+        "Aristóteles",
+        "Platão",
+        "Sócrates",
+        "Epicuro"
+      ],
+      "correta": 1
+    },
+    {
+      "id": "d03",
+      "pergunta": "Qual é a unidade do Sistema Internacional para resistência elétrica?",
+      "opcoes": [
+        "Volt",
+        "Watt",
+        "Ohm",
+        "Ampere"
+      ],
+      "correta": 2
+    },
+    {
+      "id": "d04",
+      "pergunta": "Qual tratado encerrou oficialmente a Primeira Guerra Mundial?",
+      "opcoes": [
+        "Tratado de Roma",
+        "Tratado de Versalhes",
+        "Tratado de Tordesilhas",
+        "Tratado de Paris"
+      ],
+      "correta": 1
+    },
+    {
+      "id": "d05",
+      "pergunta": "Qual cientista formulou as leis do movimento e da gravitação?",
+      "opcoes": [
+        "Einstein",
+        "Galileu",
+        "Newton",
+        "Kepler"
+      ],
+      "correta": 2
+    },
+    {
+      "id": "d06",
+      "pergunta": "Qual é o nome da divisão celular que gera gametas?",
+      "opcoes": [
+        "Mitose",
+        "Meiose",
+        "Bipartição",
+        "Clonagem"
+      ],
+      "correta": 1
+    },
+    {
+      "id": "d07",
+      "pergunta": "Qual civilização construiu Machu Picchu?",
+      "opcoes": [
+        "Maia",
+        "Asteca",
+        "Inca",
+        "Romana"
+      ],
+      "correta": 2
+    },
+    {
+      "id": "d08",
+      "pergunta": "Qual é o maior deserto quente do mundo?",
+      "opcoes": [
+        "Gobi",
+        "Saara",
+        "Atacama",
+        "Kalahari"
+      ],
+      "correta": 1
+    },
+    {
+      "id": "d09",
+      "pergunta": "Em qual camada da atmosfera ocorre a maior parte dos fenômenos meteorológicos?",
+      "opcoes": [
+        "Troposfera",
+        "Estratosfera",
+        "Mesosfera",
+        "Exosfera"
+      ],
+      "correta": 0
+    },
+    {
+      "id": "d10",
+      "pergunta": "Qual compositor criou a Nona Sinfonia?",
+      "opcoes": [
+        "Mozart",
+        "Beethoven",
+        "Bach",
+        "Chopin"
+      ],
+      "correta": 1
+    }
+  ]
+}
